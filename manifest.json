@@ -1,0 +1,16 @@
+{
+    "lang": "fr-fr",
+    "name": "PWA App",
+    "short_name": "PWAApp",
+    "start_url": "/",
+    "background_color": "#999999",
+    "theme_color": "#999999",
+    "orientation": "any",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "C:\\Users\\tauroufLeOuf\\Desktop\\pwa\\sw.js",
+            "sizes": "512x512"
+        }
+    ]
+}
